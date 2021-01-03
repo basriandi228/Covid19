@@ -1,0 +1,2 @@
+com/UAS/HilarionBasriandi185410067/BuildConfig.java
+ com.UAS.HilarionBasriandi185410067.BuildConfig
